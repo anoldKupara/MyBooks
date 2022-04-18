@@ -5,7 +5,6 @@ C:\Users\kupar\source\repos\MyBooks\MyBooks\bin\Release\net5.0\MyBooks.deps.json
 C:\Users\kupar\source\repos\MyBooks\MyBooks\bin\Release\net5.0\MyBooks.runtimeconfig.json
 C:\Users\kupar\source\repos\MyBooks\MyBooks\bin\Release\net5.0\MyBooks.runtimeconfig.dev.json
 C:\Users\kupar\source\repos\MyBooks\MyBooks\bin\Release\net5.0\MyBooks.dll
-C:\Users\kupar\source\repos\MyBooks\MyBooks\bin\Release\net5.0\ref\MyBooks.dll
 C:\Users\kupar\source\repos\MyBooks\MyBooks\bin\Release\net5.0\MyBooks.pdb
 C:\Users\kupar\source\repos\MyBooks\MyBooks\bin\Release\net5.0\Humanizer.dll
 C:\Users\kupar\source\repos\MyBooks\MyBooks\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
@@ -56,3 +55,4 @@ C:\Users\kupar\source\repos\MyBooks\MyBooks\obj\Release\net5.0\MyBooks.dll
 C:\Users\kupar\source\repos\MyBooks\MyBooks\obj\Release\net5.0\ref\MyBooks.dll
 C:\Users\kupar\source\repos\MyBooks\MyBooks\obj\Release\net5.0\MyBooks.pdb
 C:\Users\kupar\source\repos\MyBooks\MyBooks\obj\Release\net5.0\MyBooks.genruntimeconfig.cache
+C:\Users\kupar\source\repos\MyBooks\MyBooks\obj\Release\net5.0\refint\MyBooks.dll
